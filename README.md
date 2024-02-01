@@ -25,4 +25,4 @@ Welcome to my profile! This is an overview of my github activities. You can see 
 - 🥇 *Samsung AI Challenge for Scientific Discovery* - **1st placed (1/220)** [[overview](https://dacon.io/competitions/official/235789/overview/description)] [[github](https://github.com/affjljoo3581/Samsung-AI-Challenge-for-Scientific-Discovery)] -->
 
 ### 💬 Contact
-Please check out the above badges to contact me. You can also open an issue in the corresponding repository or tag me (@affjljoo3581) in issues/prs/commits on GitHub.
+Please check out the above badges to contact me.
