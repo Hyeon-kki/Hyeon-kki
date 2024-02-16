@@ -10,10 +10,15 @@ Welcome to my profile! This is an overview of my github activities. You can see 
 
 ### 📚 My Framework
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"> <img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+
 ### ⚒️ My projects & libraries
 <!-- - 🤗 Transformers - Change DataCollatorForSeq2Seq to pad labels to a multiple of `pad_to_multiple_of` [[github](https://github.com/huggingface/transformers)] [[pr](https://github.com/huggingface/transformers/pull/13949)] -->
+
+AI기반 해양수색구조 의사결정지원시스템 개발 2023.01 ~ 2023.12 해양수산과학기술진흥원
+
 ### 📝 Contributions
 
+Hyeonki Jeong, I., Kim, T.-H., Kim, D.-Y., Kim, Y.-H., Moon, S.-H., & Professor, A. (n.d.). 다양한 기계학습 알고리즘의 스태킹 앙상블을 통한 뜰개 이동 예측 Drifter Trajectory Prediction Using Stacked Ensemble with Multiple Machine Learning Algorithms 광운대학교 수학과 학사과정, ** 광운대학교 소프트웨어학부 학사과정, *** (주)아라종합기술 부설연구소장, **** 광운대학교 소프트웨어학부 교수, ***** 광운대학교 소프트웨어학부 조교수.![Uploading image.png…]()
 
 
 ### 🏆 Kaggle competitions
