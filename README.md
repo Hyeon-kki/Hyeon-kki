@@ -25,8 +25,9 @@ AI기반 해양수색구조 의사결정지원시스템 개발 2023.01 ~ 2023.12
 
 ### 📝 Contributions
 
-Hyeonki Jeong, I., Kim, T.-H., Kim, D.-Y., Kim, Y.-H., Moon, S.-H., & Professor, A. (n.d.). 
-다양한 기계학습 알고리즘의 스태킹 앙상블을 통한 뜰개 이동 예측 Drifter Trajectory Prediction Using Stacked Ensemble with Multiple Machine Learning Algorithms 
+1. Hyeonki Jeong, I., Kim, T.-H., Kim, D.-Y., Kim, Y.-H., Moon, S.-H., & Professor, A. (n.d.). <br/>
+   다양한 기계학습 알고리즘의 스태킹 앙상블을 통한 뜰개 이동 예측 <br/>
+   Drifter Trajectory Prediction Using Stacked Ensemble with Multiple Machine Learning Algorithms 
 
 
 ### 🏆 Kaggle competitions
