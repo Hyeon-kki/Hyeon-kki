@@ -22,6 +22,8 @@ Welcome to my profile! This is an overview of my github activities. You can see 
 <!-- - 🤗 Transformers - Change DataCollatorForSeq2Seq to pad labels to a multiple of `pad_to_multiple_of` [[github](https://github.com/huggingface/transformers)] [[pr](https://github.com/huggingface/transformers/pull/13949)] -->
 
 1. AI기반 해양수색구조 의사결정지원시스템 개발 2023.01 ~ 2023.12 해양수산과학기술진흥원
+  - 뜰개 이동 예측 모듈 개발 <br/>
+  - 바람 보정 모듈 개발
 
 ### 📝 Contributions
 
