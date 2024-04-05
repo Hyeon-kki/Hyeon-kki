@@ -39,8 +39,7 @@ Welcome to my profile! This is an overview of my github activities. You can see 
 ### 🏆 Dacon competitions
 <!-- Here is [my dacon profile page](https://dacon.io/myprofile/427699/home). Check out my detailed achievements on dacon.
 - 🥇 *Samsung AI Challenge for Scientific Discovery* - **1st placed (1/220)** [[overview](https://dacon.io/competitions/official/235789/overview/description)] [[github](https://github.com/affjljoo3581/Samsung-AI-Challenge-for-Scientific-Discovery)] -->
-1. 코드 유사성 판단 시즌2 AI 경진대회 <br/>
-2. 소득 예측 AI 해커톤 <br/>
+🥇 코드 유사성 판단 시즌2 AI 경진대회 <br/>
 
 ### 💬 Contact
 Please check out the above badges to contact me.
