@@ -15,15 +15,15 @@ Welcome to my profile! This is an overview of my github activities. You can see 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/> 
 
 ### 📝 Education 
-1. LG Aimers Data Intelligence 3기 2023.07.01 ~ 2023.08.28 (온라인 채널 제품 판매량 예측 모델 개발)<br/>
-2. LG Aimers Data Intelligence 4기 2024.01.02 ~ 2024.02.26 (MQL 데이터 기반 B2B 영업 기회 창출 예측 모델 개발)
+1. LG Aimers Data Intelligence 3기 2023.07.01 ~ 2023.08.28 (온라인 채널 제품 판매량 예측 모델 개발) (상위 10%) 중<br/>
+2. LG Aimers Data Intelligence 4기 2024.01.02 ~ 2024.02.26 (MQL 데이터 기반 B2B 영업 기회 창출 예측 모델 개발) (상위 12%)
 
 ### ⚒️ My projects & libraries
 <!-- - 🤗 Transformers - Change DataCollatorForSeq2Seq to pad labels to a multiple of `pad_to_multiple_of` [[github](https://github.com/huggingface/transformers)] [[pr](https://github.com/huggingface/transformers/pull/13949)] -->
 
-1. AI기반 해양수색구조 의사결정지원시스템 개발 2023.01 ~ 2023.12 해양수산과학기술진흥원
-  - 뜰개 이동 예측 모듈 개발 <br/>
-  - 바람 보정 모듈 개발
+1. AI기반 해양수색구조 의사결정지원시스템 개발 2022.12 ~ 2023.12 해양수산과학기술진흥원
+  - 뜰개 이동 예측 모듈 개발 (2022.12 ~ 2023.7) <br/>
+  - 바람 보정 모듈 개발 (2023.07 ~ 2023.12)
 
 ### 📝 Contributions
 
@@ -38,8 +38,8 @@ Welcome to my profile! This is an overview of my github activities. You can see 
 
 ### 🏆 Dacon competitions
 <!-- Here is [my dacon profile page](https://dacon.io/myprofile/427699/home). Check out my detailed achievements on dacon.
-- 🥇 *Samsung AI Challenge for Scientific Discovery* - **1st placed (1/220)** [[overview](https://dacon.io/competitions/official/235789/overview/description)] [[github](https://github.com/affjljoo3581/Samsung-AI-Challenge-for-Scientific-Discovery)] -->
-🥇 코드 유사성 판단 시즌2 AI 경진대회 <br/>
+- 🥇 *Samsung AI Challenge for Scientific Discovery* - **1st placed (1/220)**  -->
+🥇 *코드 유사성 판단 시즌2 AI 경진대회* **1st placed (1/228)** [[overview](https://dacon.io/competitions/official/236228/overview/description)] [[github](https://github.com/GNOEYHEAT/CodeSim_cpp)]<br/>
 
 ### 💬 Contact
 Please check out the above badges to contact me.
