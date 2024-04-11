@@ -40,7 +40,7 @@ Welcome to my profile! This is an overview of my github activities. You can see 
 <!-- Here is [my dacon profile page](https://dacon.io/myprofile/427699/home). Check out my detailed achievements on dacon.
 - 🥇 *Samsung AI Challenge for Scientific Discovery* - **1st placed (1/220)**  -->
 
-  🥇 *코드 유사성 판단 시즌2 AI 경진대회* **1st placed (1/228)** [[overview](https://dacon.io/competitions/official/236228/overview/description)] [[github](https://github.com/GNOEYHEAT/CodeSim_cpp)]<br/>
+  1. 🥇 *코드 유사성 판단 시즌2 AI 경진대회* **1st placed (1/228)** [[overview](https://dacon.io/competitions/official/236228/overview/description)] [[github](https://github.com/GNOEYHEAT/CodeSim_cpp)]<br/>
 
 ### 💬 Contact
 Please check out the above badges to contact me.
