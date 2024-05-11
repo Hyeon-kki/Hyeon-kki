@@ -41,7 +41,7 @@ Welcome to my profile! This is an overview of my github activities. You can see 
 - 🥇 *Samsung AI Challenge for Scientific Discovery* - **1st placed (1/220)**  -->
 
   1. 🥇 *코드 유사성 판단 시즌2 AI 경진대회* **1st placed (1/228)** [[overview](https://dacon.io/competitions/official/236228/overview/description)] [[github](https://github.com/GNOEYHEAT/CodeSim_cpp)]<br/>
-  2. 🥇 *축구 경기 결과 예측 AI 해커톤* **1st placed** [[overview](https://dacon.io/competitions/official/236246/overview/description)] [[github]()]<br/>
+  2. 🥇 *축구 경기 결과 예측 AI 해커톤* **1st placed** [[overview](https://dacon.io/competitions/official/236246/overview/description)] [[github](https://github.com/Hyeon-kki/DACON/tree/main/soccer)]<br/>
 
 ### 💬 Contact
 Please check out the above badges to contact me.
