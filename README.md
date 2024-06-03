@@ -25,8 +25,8 @@ Welcome to my profile! This is an overview of my github activities. You can see 
    * 부유체 표류경로 예측 고도화 시스템 (2022.12 ~ 2023.7) <br/>
    * AI기반 실시간 해양기상 자료동화 기술 개발 (2023.07 ~ 2023.12)
 
-2. SKT AI Fellowship 6기
-    * 대규모 Multimodal AI모델을 이용한 영상 검색 시스템 구축 (2024.06 ~ 2024.11)
+2. SKT AI Fellowship 6기 2024.06 ~ 2024.11 SKT
+    * 대규모 Multimodal AI모델을 이용한 영상 검색 시스템 구축 
 
 ### 📝 Contributions
 
