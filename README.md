@@ -26,7 +26,10 @@ Welcome to my profile! This is an overview of my github activities. You can see 
    * AI기반 실시간 해양기상 자료동화 기술 개발 (2023.07 ~ 2023.12)
 
 2. SKT AI Fellowship 6기, 2024.06 ~ 2024.11, SKT
-    * 대규모 Multimodal AI모델을 이용한 영상 검색 시스템 구축 
+    * 대규모 Multimodal AI모델을 이용한 영상 검색 시스템 구축
+  
+3. AI 및 융합·응용 기술 아이디어 경진대회.  2024.07 ~ 2024.09, KETI 한국전자기술연구원
+    * 온디바이스 경량 언어모델 기반 개인 민간정보를 활용한 지능형 홈 서비스 개발
 
 ### 📝 Contributions
 
