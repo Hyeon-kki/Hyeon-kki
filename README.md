@@ -32,7 +32,7 @@ Welcome to my profile! This is an overview of my github activities. You can see 
     * 온디바이스 경량 언어모델 기반 개인 민간정보를 활용한 지능형 홈 서비스 개발
 
 4. 멀티모달을 활용한 영어 문제 생성, 2024.07 ~ 2024.10, TOSEL
-    * 생성된 이미지 기반으로 영어 문제 생성 서비스 개발
+    * 생성형 AI를 활용한 다양한 영어 문제 생성 프레임워크 개발
    
 ### 📝 Contributions
 
