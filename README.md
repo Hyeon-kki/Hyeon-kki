@@ -31,7 +31,7 @@ Welcome to my profile! This is an overview of my github activities. You can see 
 3. AI 및 융합·응용 기술 아이디어 경진대회.  2024.07 ~ 2024.09, KETI 한국전자기술연구원
     * 온디바이스 경량 언어모델 기반 개인 민간정보를 활용한 지능형 홈 서비스 개발
 
-4. 멀티모달을 활용한 영어 문제 생성, 2024.07 ~ 2024.10, TOSEL
+4. 멀티모달을 활용한 영어 문제 생성, 2024.07 ~ 2025.02, TOSEL
     * 생성형 AI를 활용한 다양한 영어 문제 생성 프레임워크 개발
    
 ### 📝 Contributions
