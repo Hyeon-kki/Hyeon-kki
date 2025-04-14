@@ -21,7 +21,7 @@ Welcome to my profile!
 🔗 [overview](https://dacon.io/competitions/official/236228/overview/description) | [github](https://github.com/GNOEYHEAT/CodeSim_cpp)
 
 🥇 Football Match Result Prediction Challenge: **1st place**  
-📌 Task: Predicting football match outcomes using data related to football matches.
+📌 Task: Predicting football match outcomes using data related to football matches.//
 🔗 [overview](https://dacon.io/competitions/official/236246/overview/description) | [github](https://github.com/Hyeon-kki/DACON/tree/main/soccer)
 
 🏠 Smart Home Service AI using Multilingual VLM: **4th place**  
