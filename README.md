@@ -8,11 +8,12 @@ Welcome to my profile!
 
 ![HyeonGi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeon-kki&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gusrl1210)](https://solved.ac/gusrl1210)
+
 ## 📄 My Profiles
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gusrl12101210@gmail.com)](mailto:gusrl12101210@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/affjljoo3581)](https://www.instagram.com/hyeon__kki/)
 [![Resume](https://img.shields.io/badge/CV-Download-blue?style=flat-square&logo=readthedocs)](https://your-cv-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hyeon-kki/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyeon-kki/)
 
 ### 🏆 Competitions
   1. 🥇 *코드 유사성 판단 시즌2 AI 경진대회* **1st placed (1/228)** [[overview](https://dacon.io/competitions/official/236228/overview/description)] [[github](https://github.com/GNOEYHEAT/CodeSim_cpp)]<br/>
