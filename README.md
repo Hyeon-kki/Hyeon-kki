@@ -2,7 +2,9 @@
 
 Welcome to my profile! 
 
-🧪 I’m currently researching Vision-Language Models and their applications.
+🧠 I’m currently researching **Vision-Language Models** and their real-world applications in AI.
+
+📌 Passionate about multimodal learning, modality alignment, semi-supervised learning and Multi-task learning.
 
 ![HyeonGi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeon-kki&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gusrl1210)](https://solved.ac/gusrl1210)
