@@ -4,7 +4,8 @@ Welcome to my profile!
 
 🧪 I’m currently researching Vision-Language Models and their applications.
 
-![HyeonKi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeon-kki&show_icons=true&theme=default)
+![HyeonGi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeon-kki&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeon-kki&layout=compact&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gusrl1210)](https://solved.ac/gusrl1210)
 ## 📄 My Profiles
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gusrl12101210@gmail.com)](mailto:gusrl12101210@gmail.com)
