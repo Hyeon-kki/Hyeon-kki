@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/affjljoo3581)](https://www.instagram.com/hyeon__kki/)
 
 Welcome to my profile! This is an overview of my github activities. You can see what I did and what I'm planning to do.
-![HyeonKi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+![HyeonKi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeon-kki&show_icons=true&theme=default)
 
 ## 📄 My Profiles
 [![Resume](https://img.shields.io/badge/CV-Download-blue?style=flat-square&logo=readthedocs)](https://your-cv-link.com)
