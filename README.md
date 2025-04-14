@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hello 👋
 
 Welcome to my profile! 
 
@@ -14,7 +14,7 @@ Welcome to my profile!
 [![CV](https://img.shields.io/badge/CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/Hyeon-kki/Hyeon-kki/blob/main/resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyeon-kki/)
 
-### 🏆 Competitions
+## 🏆 Competitions
 
 🥇 Code Similarity Judging AI Competition Season 2: **1st place**  
 📌 Task: Code-level NLP model to detect similarity between code submissions.  
@@ -26,6 +26,3 @@ Welcome to my profile!
 
 🏠 Smart Home Service AI using Multilingual VLM: **4th place**  
 📌 Used vision-language fusion for elderly care service.  
-
-### 💬 Contact
-Please check out the above badges to contact me.
