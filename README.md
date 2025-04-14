@@ -5,7 +5,7 @@
 
 Welcome to my profile! This is an overview of my github activities. You can see what I did and what I'm planning to do.
 ![HyeonKi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeon-kki&show_icons=true&theme=default)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=your-boj-id)](https://solved.ac/gusrl1210)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gusrl1210)](https://solved.ac/gusrl1210)
 ## 📄 My Profiles
 [![Resume](https://img.shields.io/badge/CV-Download-blue?style=flat-square&logo=readthedocs)](https://your-cv-link.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hyeon-kki/)
