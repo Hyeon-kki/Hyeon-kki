@@ -14,7 +14,7 @@ Welcome to my profile!
 [![CV](https://img.shields.io/badge/CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/Hyeon-kki/Hyeon-kki/blob/main/resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyeon-kki/)
 
-## Papers
+## 📝 Papers
 1. **Hyeonki Jeong**, Taehyeong Kim, Wooseok Shin, Sung Won Han. "HiLINK: Hierarchical Linking of Context-Aware Knowledge Prediction and Prompt Tuning for Bilingual Knowledge-Based Visual Question Answering", Knowledge-Based Systems 2025, Accept
 2. **Hyeonki Jeong**, Tae-Hoon Kim, Do-Youn Kim, Yong-Hyuk Kim, and Seung-Hyun Moon. "Drifter Trajectory Prediction Using Stacked Ensemble with Multiple Machine Learning Algorithms", JKIIS 2023, Accept
 
