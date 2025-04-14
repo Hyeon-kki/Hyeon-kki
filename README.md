@@ -21,11 +21,11 @@ Welcome to my profile!
 
 🥇 Code Similarity Judging AI Competition Season 2: **1st place**  
 📌 Task: Code-level NLP model to detect similarity between code submissions.  
-🔗 [overview]([https://...](https://dacon.io/competitions/official/236228/overview/description) | [github]([https://...](https://github.com/GNOEYHEAT/CodeSim_cpp)
+🔗 [overview](https://dacon.io/competitions/official/236228/overview/description) | [github](https://github.com/GNOEYHEAT/CodeSim_cpp)
 
 🥇 Football Match Result Prediction Challenge: **1st place**  
 📌 Task: Predicting football match outcomes using data related to football matches
-🔗 [overview]([https://...](https://dacon.io/competitions/official/236246/overview/description) | [github]([https://...](https://github.com/Hyeon-kki/DACON/tree/main/soccer)
+🔗 [overview](https://dacon.io/competitions/official/236246/overview/description) | [github](https://github.com/Hyeon-kki/DACON/tree/main/soccer)
 
 🏠 Smart Home Service AI using Multilingual VLM: **4th place**  
 🌍 Used vision-language fusion for elderly care service.  
