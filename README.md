@@ -11,7 +11,7 @@ Welcome to my profile!
 
 ## 🧑‍💻 My Profiles
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![CV](https://img.shields.io/badge/CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/Hyeon-kki/Hyeon-kki/blob/main/resume.pdf)
+[![CV](https://img.shields.io/badge/CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/Hyeon-kki/resume/CV_JHK_ENG.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyeon-kki/)
 
 ## 📝 Papers
