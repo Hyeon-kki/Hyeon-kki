@@ -19,7 +19,7 @@ Welcome to my profile!
 2. **Hyeonki Jeong**, Tae-Hoon Kim, Do-Youn Kim, Yong-Hyuk Kim, and Seung-Hyun Moon. "Drifter Trajectory Prediction Using Stacked Ensemble with Multiple Machine Learning Algorithms", JKIIS 2023, Accept
 
 ## 🏆 Awards
-🌟LG Tech Conference: **SPOTLIGHT Poster** 
+🌟LG Tech Conference: **SPOTLIGHT Poster**  
 📌Poster: "HiLINK: Hierarchical Linking of Context-Aware Knowledge Prediction and Prompt Tuning for Bilingual Knowledge-Based Visual Question Answering"
 
 🥇 Code Similarity Judging AI Competition Season 2: **1st place**  
