@@ -18,7 +18,10 @@ Welcome to my profile!
 1. **Hyeonki Jeong**, Taehyeong Kim, Wooseok Shin, Sung Won Han. "HiLINK: Hierarchical Linking of Context-Aware Knowledge Prediction and Prompt Tuning for Bilingual Knowledge-Based Visual Question Answering", Knowledge-Based Systems 2025, Accept
 2. **Hyeonki Jeong**, Tae-Hoon Kim, Do-Youn Kim, Yong-Hyuk Kim, and Seung-Hyun Moon. "Drifter Trajectory Prediction Using Stacked Ensemble with Multiple Machine Learning Algorithms", JKIIS 2023, Accept
 
-## 🏆 Competitions
+## 🏆 Awards
+🌟LG Tech Conference: **SPOTLIGHT Poster** 
+📌Poster: "HiLINK: Hierarchical Linking of Context-Aware Knowledge Prediction and Prompt Tuning for Bilingual Knowledge-Based Visual Question Answering"
+
 🥇 Code Similarity Judging AI Competition Season 2: **1st place**  
 📌 Task: Code-level NLP model to detect similarity between code submissions.  
 🔗 [overview](https://dacon.io/competitions/official/236228/overview/description) | [github](https://github.com/GNOEYHEAT/CodeSim_cpp)
@@ -28,4 +31,7 @@ Welcome to my profile!
 🔗 [overview](https://dacon.io/competitions/official/236246/overview/description) | [github](https://github.com/Hyeon-kki/DACON/tree/main/soccer)
 
 🏠 Smart Home Service AI using Multilingual VLM: **4th place**  
-📌 Used vision-language fusion for elderly care service.  
+📌 Task: Used vision-language fusion for elderly care service.
+
+🔍 3rd Big Data Startup Competition: **Excellence Award**  
+📌 Subject: TagLens: A personalized browser based on structuring unstructured data
