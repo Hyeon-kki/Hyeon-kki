@@ -21,6 +21,7 @@ Welcome to my profile!
 ## 🏆 Awards
 🌟LG Tech Conference: **SPOTLIGHT Poster**  
 📌Poster: "HiLINK: Hierarchical Linking of Context-Aware Knowledge Prediction and Prompt Tuning for Bilingual Knowledge-Based Visual Question Answering"
+🔗Organizer: LG.
 
 🥇 Code Similarity Judging AI Competition Season 2: **1st place**  
 📌 Task: Code-level NLP model to detect similarity between code submissions.  
@@ -32,9 +33,12 @@ Welcome to my profile!
 
 🏠 Smart Home Service AI using Multilingual VLM: **4th place**  
 📌 Task: Used vision-language fusion for elderly care service.
+🔗Organizer: Korea Electornics Technology Institute(KETI).
 
 🔍 3rd Big Data Startup Competition: **Excellence Award**  
 📌 Subject: TagLens: A personalized browser based on structuring unstructured data
+🔗Organizer: Korea University.
 
 💪 4th Annual Growing Pains Case Competition: **Excellence Award**  
 📌 Subject:Dynamic Knowledge Prediction with Context Awareness for Bilingual Knowledge-Based Visual Question Answering
+🔗Organizer: Korea University.
