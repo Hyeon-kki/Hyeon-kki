@@ -21,7 +21,6 @@ Welcome to my profile!
 ## 🏆 Awards
 🌟LG Tech Conference: **SPOTLIGHT Poster**  
 📌Poster: "HiLINK: Hierarchical Linking of Context-Aware Knowledge Prediction and Prompt Tuning for Bilingual Knowledge-Based Visual Question Answering"
-🔗Organizer: LG.
 
 🥇 Code Similarity Judging AI Competition Season 2: **1st place**  
 📌 Task: Code-level NLP model to detect similarity between code submissions.  
