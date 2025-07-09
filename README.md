@@ -35,3 +35,6 @@ Welcome to my profile!
 
 🔍 3rd Big Data Startup Competition: **Excellence Award**  
 📌 Subject: TagLens: A personalized browser based on structuring unstructured data
+
+💪 4th Annual Growing Pains Case Competition: **Excellence Award**  
+📌 Subject:Dynamic Knowledge Prediction with Context Awareness for Bilingual Knowledge-Based Visual Question Answering
