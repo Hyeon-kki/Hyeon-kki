@@ -31,11 +31,11 @@ Welcome to my profile!
 🔗 [overview](https://dacon.io/competitions/official/236246/overview/description) | [github](https://github.com/Hyeon-kki/DACON/tree/main/soccer)
 
 🏠 Smart Home Service AI using Multilingual VLM: **4th place**  
-📌 Task: Used vision-language fusion for elderly care service.
+📌 Task: Used vision-language fusion for elderly care service.   
 🔗Organizer: Korea Electornics Technology Institute(KETI).
 
 🔍 3rd Big Data Startup Competition: **Excellence Award**  
-📌 Subject: TagLens: A personalized browser based on structuring unstructured data
+📌 Subject: TagLens: A personalized browser based on structuring unstructured data   
 🔗Organizer: Korea University.
 
 💪 4th Annual Growing Pains Case Competition: **Excellence Award**  
