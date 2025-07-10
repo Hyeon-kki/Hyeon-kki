@@ -39,5 +39,5 @@ Welcome to my profile!
 🔗Organizer: Korea University.
 
 💪 4th Annual Growing Pains Case Competition: **Excellence Award**  
-📌 Subject:Dynamic Knowledge Prediction with Context Awareness for Bilingual Knowledge-Based Visual Question Answering
+📌 Subject:Dynamic Knowledge Prediction with Context Awareness for Bilingual Knowledge-Based Visual Question Answering   
 🔗Organizer: Korea University.
